@@ -1,0 +1,5 @@
+//new
+7 "" !="exilexm8isonline" !="bis_fnc_selectrespawntemplate_respawned"
+7 "realname"
+7 "ExileScore"
+7 "ExileMoney"
